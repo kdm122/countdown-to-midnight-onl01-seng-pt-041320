@@ -15,6 +15,8 @@
 
 #countdown(time)
 
+time = 10
+
 def countdown(time)
 until time == 0 
   puts "#{time} SECOND(S)!"
